@@ -1,4 +1,4 @@
-# bicitienda
+# Bicitienda 🚴‍♀️
 Landing page hecho en html y css para la bicicleteria y almacen de mi hermano.
 https://alejandroguascabustos.github.io/bicitienda/
 
